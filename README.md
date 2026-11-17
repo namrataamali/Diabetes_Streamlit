@@ -28,6 +28,9 @@ The application combines machine learning predictions, probability analysis, mod
 ### 📈 Insights — Health Indicator Analysis
 ![Health Indicator Analysis](insights_indicators.png)
 
+### 🧠 Insights — Dataset & Methodology
+![Dataset and Methodology](insights_methodology.png)
+
 ---
 ## ✨ Key Features
 
