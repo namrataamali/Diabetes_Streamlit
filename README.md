@@ -5,6 +5,11 @@ DiaSense AI is an interactive machine learning application that predicts the lik
 
 The application combines machine learning predictions, probability analysis, model evaluation, and health data visualisation in a modern multi-page Streamlit interface.
 
+## 🏠 Application Preview
+
+![DiaSense AI Home Page](home.png)
+
+
 ## ✨ Key Features
 
 ### 1. Diabetes Prediction
