@@ -10,12 +10,25 @@ The application combines machine learning predictions, probability analysis, mod
 ### 🏠 Home Page
 ![DiaSense AI Home](home.png)
 
-### 🩺 Prediction Inputs
+### 🩺 Prediction — Health Inputs
 ![Prediction Inputs](prediction_inputs.png)
 
-### 🎯 Prediction Results & History
+### 🎯 Prediction — Results & History
 ![Prediction Results](prediction_result.png)
 
+### 📊 Insights — Model Performance
+![Model Performance](insights_performance.png)
+
+### 📂 Insights — Dataset Overview
+![Dataset Overview](insights_dataset.png)
+
+### 🍩 Insights — Outcome Distribution
+![Outcome Distribution](insights_distribution.png)
+
+### 📈 Insights — Health Indicator Analysis
+![Health Indicator Analysis](insights_indicators.png)
+
+---
 ## ✨ Key Features
 
 ### 1. Diabetes Prediction
