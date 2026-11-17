@@ -1,6 +1,14 @@
 # 🩺 DiaSense AI
 ### Diabetes Prediction & Interactive Health Analytics
 
+🌐 **[Live Demo — Try DiaSense AI](https://namrataamali-diabetes-streamlit-app-uzthbd.streamlit.app/)**
+
+💻 **[GitHub Repository](https://github.com/namrataamali/Diabetes_Streamlit)**
+
+**Python • Machine Learning • Logistic Regression • Streamlit**
+
+---
+
 DiaSense AI is an interactive machine learning application that predicts the likelihood of diabetes using **Logistic Regression** and provides an interactive dashboard for exploring diabetes-related health data.
 
 The application combines machine learning predictions, probability analysis, model evaluation, and health data visualisation in a modern multi-page Streamlit interface.
